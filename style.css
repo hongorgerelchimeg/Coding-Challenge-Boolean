@@ -134,3 +134,31 @@ span {
     background-color: red;
 
 }
+
+@media screen and (max-width: 500px) {
+
+    h1 {
+        font-size: 1.2em;
+        line-height: 18x;
+    }
+    h2 {
+        font-size: 1em;
+        line-height: 18px;
+    }
+    p {
+        font-size: 11px;
+    }
+    span {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .button_holder {
+        padding-top: 4px;
+        padding-bottom: 4px;
+        margin-top: -8px;
+    }
+    .button {
+        margin-right: 4px;
+        font-size: 8px;
+    }
+}
