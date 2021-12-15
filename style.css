@@ -18,7 +18,8 @@ h2 {
     color:white;
 }
 p {
-    font-size: 0.875em;
+    font-size: 14px;
+    line-height: 18px;
 }
 span {
     font-size: 14px;
@@ -87,7 +88,7 @@ span {
     -ms-flex-align: center;
     align-items: center;
     color: #00dd01;
-    font-family: 20/25px 'Roboto', sans-serif;
+    font-family: 20px 'Roboto', sans-serif;
 }
 .button_holder {
     display: -webkit-box;
